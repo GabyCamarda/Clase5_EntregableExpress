@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Compás",
+        "price":200.00,
+        "thumbnail":"https://m.media-amazon.com/images/I/71nEgJlRsnL._AC_SY355_.jpg",
+        "id":1
+    },
+    {
+        "title":"Calculadora",
+        "price":500.56,
+        "thumbnail":"https://maxihogar.vteximg.com.br/arquivos/ids/155466-1000-1000/Calculadora-Casio-LC-403TV.jpg?v=635603991040430000",
+        "id":2
+    },
+    {
+        "title":"Lapiceras",
+        "price":350.67,
+        "thumbnail":"https://http2.mlstatic.com/D_NQ_NP_689722-MLA43416143407_092020-W.jpg",
+        "id":3
+    }
+]
